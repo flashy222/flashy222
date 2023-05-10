@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Oliwier
 <hr>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200" align="right" alt="programmer"></img>
-<p align="left">
+<p align="left" margin-top="10">
   - ⚡ I make web pages<br>
   - 👨‍💻 I'm currently learning PHP<br>
   - 📫 Contact: oliwierprzybyla2000@gmail.com
