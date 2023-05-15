@@ -4,7 +4,6 @@
 <p align="left">
   - ⚡ I make web pages<br>
   - 👨‍💻 I'm currently learning PHP<br>
-  - 📫 Contact: oliwierprzybyla2000@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
